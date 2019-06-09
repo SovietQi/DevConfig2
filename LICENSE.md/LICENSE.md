@@ -1,0 +1,17 @@
+HUD
+Sprint
+Velocity
+NewCriticals
+NoFall
+NoSlow
+AntiBot
+FullBright
+AutoArmor
+AutoHeal
+Nametags
+Tracers
+ESP
+Chams
+AutoSword
+InvMove
+MoreKB
